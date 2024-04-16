@@ -1,0 +1,65 @@
+/* Custom CSS styles */
+
+/* Navbar */
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+.navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.navbar-toggle .icon-bar {
+    background-color: #333;
+}
+
+/* Mobile Menu Button */
+.navbar-mobile {
+    background-color: #f8f8f8;
+    padding: 10px;
+}
+
+.navbar-mobile .navbar-brand {
+    font-size: 20px;
+}
+
+/* Page Heading */
+.page-heading {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.page-heading h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+/* Section Heading */
+.section-heading {
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Single Section */
+.single-section {
+    padding: 50px 0;
+}
+
+.single-section p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.single-section a {
+    color: #337ab7;
+}
+
+.single-section a:hover {
+    text-decoration: none;
+    color: #23527c;
+}

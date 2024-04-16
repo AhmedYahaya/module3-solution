@@ -1,0 +1,46 @@
+/* Custom CSS styles */
+
+/* Navbar */
+.navbar {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+.navbar-brand {
+    color: #333;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.navbar-toggle {
+    margin-right: 15px;
+}
+
+.navbar-toggle .icon-bar {
+    background-color: #333;
+    margin: 3px 0;
+    width: 25px;
+    height: 4px;
+}
+
+.navbar-nav > li > a {
+    color: #333;
+    font-weight: bold;
+}
+
+.navbar-nav > li > a:hover,
+.navbar-nav > li > a:focus {
+    background-color: #ddd;
+}
+
+/* Centered heading */
+.text-center {
+    text-align: center;
+}
+
+/* Placeholder content */
+.container {
+    margin-top: 20px;
+}
